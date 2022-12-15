@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there👋, I'm <a href="https://abhishekar10.github.io/PortFolio/newindex1.html">Charan</a>
+  Hi there👋, I'm <a href="https://abhishekar10.github.io/PortFolio/newindex1.html">Abhishek A R</a>
 </h1>
 <h3 align="center">Student, Developer</h3>
 
